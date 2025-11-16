@@ -1,5 +1,5 @@
-Hi there, I'm GamingLizard9!
+Hi there, my name is Dawson Call!
 
-I'm just a random idiot making bad websites on the internet.
+See [my website](https://dawsoncall.com) for more info.
 
-See [this](https://gaminglizard9.github.io) for more info.
+[![Dawson's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamingLizard9)](https://github.com/GamingLizard9/github-readme-stats)
